@@ -1,0 +1,26 @@
+.container{
+    width: 1920px;
+    height: 1322px;
+    left: 0px;
+    top: 0px;
+    background: rgba(255, 144, 14, 0.1);
+}
+.g3{
+    width: 302px;
+    height: 53px;
+    left: 228px;
+    font-size: 35px;
+    text-align: center;
+    color: #131313;
+}
+.navigation{
+    display: flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    width: 477px;
+    height: 26px;
+    left: 1203px;
+    right: 230px;
+    text-align: center;
+
+}
