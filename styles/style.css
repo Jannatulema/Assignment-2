@@ -1,26 +1,60 @@
-.container{
-    width: 1920px;
-    height: 1322px;
-    left: 0px;
-    top: 0px;
+
+.header{
+    height: 1322px; 
     background: rgba(255, 144, 14, 0.1);
 }
-.g3{
-    width: 302px;
-    height: 53px;
-    left: 228px;
-    font-size: 35px;
-    text-align: center;
-    color: #131313;
-}
-.navigation{
+.nav{
     display: flex;
-    flex-direction: column;
-    justify-content:flex-end;
-    width: 477px;
-    height: 26px;
-    left: 1203px;
-    right: 230px;
+    justify-content: space-between;
+    }
+ 
+.nav3{
+     display: flex;
+     gap: 10px;
+     top: 63px;
+}
+.section1{
+height: 225px;
+left: 529px;
+top: 205px;
+}
+.brand2{
+    height: 225px;
     text-align: center;
+    font-weight: 700;
+    font-size: 64px;
+    
+}
+.para{
+    width: 868px;
+    height: 52px;
+    left: 526px;
+    top: 379px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+}
+.explore{
+border-radius: 8px;    
+height: 64px;
+left: 870px;
+top: 463px;
+
 
 }
+.btn{
+    border: none;
+    background-color: orange;
+    width: 131px;
+    height: 23px;
+    left: 895px;
+    top: 484px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}
+   
